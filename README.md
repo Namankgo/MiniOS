@@ -2,7 +2,7 @@
 
 ![not very impressive screenshot](main.png)
 
-The simple OS is written from scratch in Assembly and C for x86 architecture. Project for "Basic of programming 1" course at Thapar Institute of Engineering and Technology.
+The simple OS is written from scratch in Assembly and C for x86 architecture. Project for "Operating Systems" course at Thapar Institute of Engineering and Technology.
 
 Based on [os-tutorial](https://github.com/cfenollosa/os-tutorial) repo with some parts reworked and new added.
 
