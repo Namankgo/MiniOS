@@ -60,7 +60,7 @@ Root files structure:
 ### How to run
 
 1. Install `qemu` ([download page](https://www.qemu.org/download/)).
-2. Download `os-image.bin` file from the release page.
+2. Download `os-image.bin` file.
 3. In console, run `qemu-system-i386 -drive if=ide,format=raw,file=os-image.bin,readonly=off`.
 
 ### How to setup development environment
